@@ -1,0 +1,87 @@
+#######################################
+# Syntax Coloring Map For GoPRO
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+GoPRO	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+WiFiStatus	KEYWORD2
+
+turnOn	KEYWORD2
+turnOff	KEYWORD2
+
+startCapture	KEYWORD2
+stopCapture	KEYWORD2
+
+localizationOn	KEYWORD2
+localizationOff	KEYWORD2
+
+setTimeLapseInterval	KEYWORD2
+etContinuousShot	KEYWORD2
+setVideoMode	KEYWORD2
+
+deleteLast	KEYWORD2
+deleteAll	KEYWORD2
+
+checkConnection	KEYWORD2
+disconnect	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+CAMERA	LITERAL1
+BACPAC	LITERAL1
+
+videoMode	LITERAL1
+photoMode	LITERAL1
+burstMode	LITERAL1
+timelapseMode	LITERAL1
+timerMode	LITERAL1
+playHDMI	LITERAL1
+
+orientationUp	LITERAL1
+orientationDown	LITERAL1
+
+VRWVGA60	LITERAL1
+VRWVGA120	LITERAL1
+VRR720_30	LITERAL1
+VR720_60	LITERAL1
+VR960_30	LITERAL1
+VR960_48	LITERAL1
+VR1080_30	LITERAL1
+
+FPS12	LITERAL1
+FPS15	LITERAL1
+FPS12p5	LITERAL1
+FPS24	LITERAL1
+FPS25	LITERAL1
+FPS30	LITERAL1
+FPS48	LITERAL1
+FPS50	LITERAL1
+FPS60	LITERAL1
+FPS100	LITERAL1
+FPS120	LITERAL1
+FPS240	LITERAL1
+
+wideFOV	LITERAL1
+mediumFOV	LITERAL1
+narrowFOV	LITERAL1
+
+photo11mpW	LITERAL1
+photo8mpW	LITERAL1
+photo5mpW	LITERAL1
+photo5mpM	LITERAL1
+int photo12mpW	LITERAL1
+photo7mpW	LITERAL1
+photo7mpM	LITERAL1
+
+NTSC	LITERAL1
+PAL	LITERAL1
+#######################################
