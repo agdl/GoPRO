@@ -78,7 +78,7 @@ photo11mpW	LITERAL1
 photo8mpW	LITERAL1
 photo5mpW	LITERAL1
 photo5mpM	LITERAL1
-int photo12mpW	LITERAL1
+photo12mpW	LITERAL1
 photo7mpW	LITERAL1
 photo7mpM	LITERAL1
 
